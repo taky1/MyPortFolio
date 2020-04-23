@@ -1,6 +1,6 @@
 ﻿namespace Core.Entites
 {
-   public class ProfolioItem :EntityBase
+    public class ProtfolioItem : EntityBase
     {
 
         public string ProjectName { get; set; }
